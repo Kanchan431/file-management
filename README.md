@@ -25,7 +25,7 @@ This API allows users to perform file management operations such as uploading, l
 2. **Install Dependencies:**
 
    ```
-   cd file-management-api
+   cd file-management
    npm install
    ```
 
